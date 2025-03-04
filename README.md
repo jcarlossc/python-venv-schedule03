@@ -18,7 +18,7 @@ Como dito no primeiro parágrafo, este quarto projeto é bem simples e resume-se
 
 ## MODO DE UTILIZAR
 * Clonar repositório.
-* No diretório 'python-venv-schedule', executar ```python -m venv venv``` para instalar o ambiente virtual.
+* No diretório 'python-venv-schedule03', executar ```python -m venv venv``` para instalar o ambiente virtual.
 * Executar ```pip install -r requirements.txt``` para instalar as dependências.
 * Executar, caso esteja no Windows, ```venv\Scripts\activate``` para iniciar o ambiente. Caso Linux ou MacOS, ```source venv/bin/activate```.
 * ```python app.py``` - Executa o algoritmo.
